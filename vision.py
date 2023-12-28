@@ -59,9 +59,7 @@ if uploaded_file is not None:
 submit=st.button("Tell me about the image")
 
 input_prompt = """
-               You are an expert in understanding invoices.
-               You will receive input images as invoices &
-               you will have to answer questions based on the input image
+               You are an expert in Understanding the Flowchart Diagrams.
                """
 
 ## If ask button is clicked
